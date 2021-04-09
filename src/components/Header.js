@@ -7,7 +7,7 @@ export const Header = () => {
 
     return (
         <Navbar bg="dark" variant="dark">
-            <Navbar.Brand href="#home" data-testid="brand-navbar">
+            <Navbar.Brand href="/" data-testid="brand-navbar">
             <img
                 src={logo}
                 alt=""
